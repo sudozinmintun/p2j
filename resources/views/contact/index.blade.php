@@ -57,8 +57,8 @@
                     <i class="ph ph-device-mobile-camera p1-color fs-one"></i>
                     <div>
                         <span class="n5-color fs-five fw-semibold d-block mb-2">Phone</span>
-                        <a href="tel:+6494461709" class="n4-color fs-nine">
-                            +849-84-157-914
+                        <a href="tel:" class="n4-color fs-nine">
+                            phone here
                         </a>
                     </div>
                 </div>
